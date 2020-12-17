@@ -45920,7 +45920,8 @@ lbl_803CB674:
 	.skip 0x4
 lbl_803CB678:
 	.skip 0x4
-lbl_803CB67C:
+.global bbounce_hit
+bbounce_hit:
 	.skip 0x4
 lbl_803CB680:
 	.skip 0x4
@@ -45932,11 +45933,14 @@ lbl_803CB68C:
 	.skip 0x4
 lbl_803CB690:
 	.skip 0x4
-lbl_803CB694:
+.global tslide_inair_tmr
+tslide_inair_tmr:
 	.skip 0x4
-lbl_803CB698:
+.global tslide_dbl_tmr
+tslide_dbl_tmr:
 	.skip 0x4
-lbl_803CB69C:
+.global tslide_ground
+tslide_ground:
 	.skip 0x4
 .global in_goo
 in_goo:
