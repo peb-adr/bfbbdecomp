@@ -1,6 +1,7 @@
 #include "zEntPlayer.h"
 
 #include <types.h>
+#include <string.h>
 
 #include "../Core/p2/iSnd.h"
 
@@ -9,6 +10,7 @@
 #include "../Core/x/xVec3.h"
 #include "../Core/x/xEntBoulder.h"
 
+#include "zCamera.h"
 #include "zGame.h"
 #include "zGameExtras.h"
 #include "zGlobals.h"
@@ -27,6 +29,12 @@ extern int32 in_goo;
 extern int32 sPlayerDiedLastTime;
 extern int32 player_hit;
 extern int32 player_hit_anim;
+
+extern uint32 bbounce_hit;
+
+extern float32 tslide_inair_tmr;
+extern float32 tslide_dbl_tmr;
+extern uint32 tslide_ground;
 
 extern float32 lbl_803CD5A0; // 0.0
 extern float32 lbl_803CD638; // 10.0
@@ -248,6 +256,28 @@ uint32 BubbleBounceCheck(xAnimTransition* tran, xAnimSingle* anim, void* param_3
 
 // func_80068F24
 #pragma GLOBAL_ASM("asm/Game/zEntPlayer.s", "BubbleBounceCB__FP15xAnimTransitionP11xAnimSinglePv")
+
+#if 0
+// #pragma GLOBAL_ASM("asm/Game/zEntPlayer.s", "BubbleBounceCB__FP15xAnimTransitionP11xAnimSinglePv")
+uint32 BubbleBounceCB(xAnimTransition* tran, xAnimSingle* anim, void* param_3)
+{
+    zCameraSetBbounce(true);
+    globals.player.ent.frame->vel.x = lbl_803CD5A0;
+    globals.player.ent.frame->vel.y = lbl_803CD5A0;
+    globals.player.ent.frame->vel.z = lbl_803CD5A0;
+
+    // above matches
+    // below float register usage differs
+
+    tslide_inair_tmr = lbl_803CD5A0;
+    tslide_dbl_tmr = lbl_803CD5A0;
+    tslide_ground = false;
+    globals.player.SlideTrackDecay = lbl_803CD5A0;
+    bbounce_hit = false;
+
+    return 0;
+}
+#endif
 
 // func_80068F9C
 uint32 BBounceAttackCB(xAnimTransition* tran, xAnimSingle* anim, void* param_3)

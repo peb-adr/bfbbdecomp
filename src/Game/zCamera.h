@@ -3,7 +3,8 @@
 
 #include "../Core/x/xCamera.h"
 
-void zCameraSetConvers(int on);
+void zCameraSetBbounce(int32 bbouncing);
+void zCameraSetConvers(int32 on);
 void zCameraDoTrans(xCamAsset* asset, float ttime);
 uint32 zCamera_FlyOnly();
 
