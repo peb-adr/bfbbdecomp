@@ -263,10 +263,8 @@ uint32 BubbleBounceCheck(xAnimTransition* tran, xAnimSingle* anim, void* param_3
 #pragma GLOBAL_ASM("asm/Game/zEntPlayer.s", "BubbleBounceCB__FP15xAnimTransitionP11xAnimSinglePv")
 #else
 // very funny hook start
-#pragma scheduling 601
-#pragma optimization_level 0
+#pragma scheduling xd
 // very funny hook end
-
 uint32 BubbleBounceCB(xAnimTransition*, xAnimSingle*)
 {
     zCameraSetBbounce(true);
