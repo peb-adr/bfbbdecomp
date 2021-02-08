@@ -3,7 +3,6 @@ __pycache__
 *.pyc
 tools/mwcc_compiler/*.*
 tools/elf2dol
-tools/diff_func/*.dump
 obj/*
 obj-expected/*
 *.asm
@@ -27,5 +26,6 @@ inspect.s
 
 # Allow
 !tools/mwcc_compiler/README.md
+!tools/diff_func/*_pp.dump
 
 .cache/clangd/*

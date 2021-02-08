@@ -1,3 +1,7 @@
 [submodule "tools/diff_func/dif"]
-	path = tools/diff_func/dif
-	url = https://github.com/koknat/dif.git
+    path = tools/diff_func/dif
+    url = https://github.com/koknat/dif.git
+
+[submodule "tools/meld/meld-auto-refresh"]
+    path = tools/meld/meld-auto-refresh
+    url = https://github.com/mernst/meld-auto-refresh.git
