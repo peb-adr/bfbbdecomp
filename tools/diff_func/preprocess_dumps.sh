@@ -11,18 +11,17 @@ regex_blr='^[A-Fa-f0-9]{8}:\s*[A-Fa-f0-9]{2}\s*[A-Fa-f0-9]{2}\s*[A-Fa-f0-9]{2}\s
 
 if [ -z "$address_start" ]
 then
-    start_cmd=''
-    stop_cmd=''
+    cp baserom.dump $tool_directory/baserom_pp.dump
+    cp main.dump $tool_directory/main_pp.dump
 else
     start_cmd='-start '$regex_start
-
     if [ -z "$address_stop" ]
     then
         stop_cmd='-stop '$regex_blr
     else
         stop_cmd='-stop '$regex_stop
     fi
-fi
 
-$tool_directory/dif/dif baserom.dump $start_cmd $stop_cmd -gui '' -stdout > $tool_directory/baserom_pp.dump
-$tool_directory/dif/dif main.dump $start_cmd $stop_cmd -gui '' -stdout > $tool_directory/main_pp.dump
+    $tool_directory/dif/dif baserom.dump $start_cmd $stop_cmd -gui '' -stdout > $tool_directory/baserom_pp.dump
+    $tool_directory/dif/dif main.dump $start_cmd $stop_cmd -gui '' -stdout > $tool_directory/main_pp.dump
+fi
