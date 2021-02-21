@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "bfbb",
+      "includePath": [
+        "include",
+        "include/dolphin",
+        "include/rwsdk",
+        "include/CodeWarrior"
+      ],
+      "defines": ["GAMECUBE"],
+      "cStandard": "c99",
+      "cppStandard": "c++98",
+      "compileCommands": "compile_commands.json",
+      "browse": {
+        "limitSymbolsToIncludedHeaders": true
+      }
+    }
+  ]
+}

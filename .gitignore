@@ -26,3 +26,5 @@ inspect.s
 
 # Allow
 !tools/mwcc_compiler/README.md
+
+.cache/clangd/*

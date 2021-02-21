@@ -1,0 +1,1097 @@
+[
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xAnim.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xAnim.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xBase.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xBase.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xbinio.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xbinio.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xBound.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xBound.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCamera.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCamera.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xClimate.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xClimate.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCollide.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCollide.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCollideFast.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCollideFast.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCounter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCounter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCutscene.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCutscene.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xDebug.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xDebug.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEnt.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEnt.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEntDrive.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEntDrive.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEntMotion.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEntMotion.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEnv.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEnv.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEvent.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEvent.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xFFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xFFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xFog.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xFog.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xFont.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xFont.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xGroup.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xGroup.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xhipio.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xhipio.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHud.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHud.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHudFontMeter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHudFontMeter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHudMeter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHudMeter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHudModel.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHudModel.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHudUnitMeter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHudUnitMeter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xIni.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xIni.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xMath.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xMath.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xMath3.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xMath3.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xMemMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xMemMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xModel.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xModel.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xMorph.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xMorph.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xMovePoint.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xMovePoint.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xordarray.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xordarray.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xPad.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xPad.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xPar.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xPar.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParCmd.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParCmd.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParGroup.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParGroup.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xPartition.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xPartition.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xpkrsvc.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xpkrsvc.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xQuickCull.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xQuickCull.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xsavegame.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xsavegame.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xScene.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xScene.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xScrFx.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xScrFx.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xserializer.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xserializer.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xSFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xSFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xShadow.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xShadow.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xSnd.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xSnd.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xSpline.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xSpline.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xstransvc.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xstransvc.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xString.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xString.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xSurface.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xSurface.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xTimer.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xTimer.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xTRC.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xTRC.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xutil.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xutil.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xVec3.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xVec3.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zActionLine.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zActionLine.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zAnimList.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zAnimList.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zAssetTypes.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zAssetTypes.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCamera.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCamera.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zConditional.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zConditional.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCutsceneMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCutsceneMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zDispatcher.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zDispatcher.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEGenerator.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEGenerator.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEnt.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEnt.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntButton.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntButton.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntCruiseBubble.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntCruiseBubble.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntDestructObj.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntDestructObj.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntHangable.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntHangable.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntPickup.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntPickup.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntPlayer.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntPlayer.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntSimpleObj.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntSimpleObj.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntTrigger.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntTrigger.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEnv.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEnv.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEvent.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEvent.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zFeet.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zFeet.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zFMV.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zFMV.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGame.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGame.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGameExtras.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGameExtras.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGameState.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGameState.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGust.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGust.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zHud.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zHud.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zLasso.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zLasso.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zLight.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zLight.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zLightEffect.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zLightEffect.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zLightning.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zLightning.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zLOD.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zLOD.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zMain.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zMain.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zMenu.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zMenu.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zMovePoint.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zMovePoint.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zMusic.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zMusic.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zParCmd.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zParCmd.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zParEmitter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zParEmitter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zPendulum.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zPendulum.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zPickupTable.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zPickupTable.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zPlatform.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zPlatform.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zPortal.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zPortal.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zRenderState.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zRenderState.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zRumble.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zRumble.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zSaveLoad.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zSaveLoad.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zScene.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zScene.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zScript.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zScript.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zSurface.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zSurface.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zThrown.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zThrown.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zUI.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zUI.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zUIFont.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zUIFont.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zVar.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zVar.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zVolume.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zVolume.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iAnim.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iAnim.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iAnimSKB.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iAnimSKB.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/iCamera.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/iCamera.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iCollide.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iCollide.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iCollideFast.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iCollideFast.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iDraw.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iDraw.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iEnv.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iEnv.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iFile.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iFile.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iFMV.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iFMV.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iLight.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iLight.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iMath.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iMath.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iMath3.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iMath3.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iMemMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iMemMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iModel.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iModel.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iMorph.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iMorph.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iPad.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iPad.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iParMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iParMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/isavegame.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/isavegame.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iScrFX.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iScrFX.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iSnd.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iSnd.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iSystem.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iSystem.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iTime.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iTime.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoals.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoals.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalCommon.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalCommon.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalStd.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalStd.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalRobo.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalRobo.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalTiki.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalTiki.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCMessenger.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCMessenger.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypes.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypes.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeCommon.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeCommon.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeRobot.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeRobot.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeVillager.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeVillager.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeAmbient.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeAmbient.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeTiki.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeTiki.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xBehaveMgr.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xBehaveMgr.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xBehaviour.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xBehaviour.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xBehaveGoalSimple.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xBehaveGoalSimple.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xSkyDome.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xSkyDome.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xRMemData.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xRMemData.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xFactory.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xFactory.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xNPCBasic.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xNPCBasic.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntPlayerBungeeState.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntPlayerBungeeState.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCollGeom.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCollGeom.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParSys.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParSys.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParEmitter.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParEmitter.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xVolume.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xVolume.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xParEmitterType.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xParEmitterType.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xRenderState.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xRenderState.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntPlayerOOBState.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntPlayerOOBState.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xClumpColl.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xClumpColl.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xEntBoulder.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xEntBoulder.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xGrid.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xGrid.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xJSP.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xJSP.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xLightKit.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xLightKit.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCamMarker.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCamMarker.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGoo.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGoo.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zGrid.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zGrid.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalScript.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalScript.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCSndTable.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCSndTable.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeDuplotron.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeDuplotron.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xModelBucket.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xModelBucket.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zShrapnel.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zShrapnel.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalDuplotron.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalDuplotron.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCSpawner.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCSpawner.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zEntTeleportBox.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zEntTeleportBox.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zBusStop.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zBusStop.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCSupport.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCSupport.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zTalkBox.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zTalkBox.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zTextBox.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zTextBox.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zTaskBox.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zTaskBox.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iCutscene.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iCutscene.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeTest.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeTest.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeSubBoss.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeSubBoss.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBoss.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBoss.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalVillager.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalVillager.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalSubBoss.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalSubBoss.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xShadowSimple.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xShadowSimple.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xUpdateCull.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xUpdateCull.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zDiscoFloor.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zDiscoFloor.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBossSandy.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBossSandy.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeKingJelly.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeKingJelly.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalBoss.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalBoss.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypePrawn.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypePrawn.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBossSB1.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBossSB1.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBossSB2.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBossSB2.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xJaw.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xJaw.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBossPatrick.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBossPatrick.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeBossPlankton.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeBossPlankton.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zParPTank.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zParPTank.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zTaxi.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zTaxi.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCTypeDutchman.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCTypeDutchman.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCameraFly.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCameraFly.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCurveAsset.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCurveAsset.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xDecal.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xDecal.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xLaserBolt.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xLaserBolt.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCameraTweak.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCameraTweak.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xPtankPool.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xPtankPool.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/p2/iTRC.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/p2/iTRC.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCSupplement.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCSupplement.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGlyph.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGlyph.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCHazard.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCHazard.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCGoalAmbient.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCGoalAmbient.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zNPCFXCinematic.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zNPCFXCinematic.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xHudText.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xHudText.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Game/zCombo.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Game/zCombo.cpp"
+    },
+    {
+        "directory": "/home/ad/repos/bfbbdecomp",
+        "file": "src/Core/x/xCM.cpp",
+        "command": "clang++ -DGAMECUBE -Iinclude -Iinclude/dolphin -Iinclude/CodeWarrior -Iinclude/rwsdk -c src/Core/x/xCM.cpp"
+    }
+]
