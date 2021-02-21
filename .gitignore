@@ -3,6 +3,7 @@ __pycache__
 *.pyc
 tools/mwcc_compiler/*.*
 tools/elf2dol
+tools/diff_func/*.dump
 obj/*
 obj-expected/*
 *.asm

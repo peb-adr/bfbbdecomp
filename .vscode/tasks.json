@@ -43,13 +43,65 @@
 				"reveal": "silent",
 			},
 			"problemMatcher": []
+		},
+		{
+			"label": "Run meld",
+			"type": "shell",
+			"command": "tools/meld/meld-auto-refresh/bin/meld tools/diff_func/baserom_pp.dump tools/diff_func/main_pp.dump",
+			"group": "build",
+			"problemMatcher": []
+		},
+		{
+			"label": "diff address set start",
+			"type": "shell",
+			"command": "echo ${input:address} > tools/diff_func/address_start",
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "diff address clear start",
+			"type": "shell",
+			"command": "rm tools/diff_func/address_start && touch tools/diff_func/address_start",
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "diff address set stop",
+			"type": "shell",
+			"command": "echo ${input:address} > tools/diff_func/address_stop",
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "diff address clear stop",
+			"type": "shell",
+			"command": "rm tools/diff_func/address_stop && touch tools/diff_func/address_stop",
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+			},
+			"problemMatcher": []
 		}
 	],
 	"inputs": [
 		{
-		  "id": "rippedSymbol",
-		  "type": "promptString",
-		  "description": "What symbol do you want to rip?"
+			"id": "rippedSymbol",
+			"type": "promptString",
+			"description": "What symbol do you want to rip?"
+		},
+		{
+			"id": "address",
+			"type": "promptString",
+			"description": "address"
 		}
 	]
 }

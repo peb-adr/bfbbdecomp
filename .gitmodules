@@ -1,0 +1,3 @@
+[submodule "tools/diff_func/dif"]
+	path = tools/diff_func/dif
+	url = https://github.com/koknat/dif.git
